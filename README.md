@@ -35,4 +35,4 @@ Software Magazine. , p.11 - 19, 2012.
 
 
 Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](mailto:franklinmatos@gmail.com"Envie-me uma mensagem ") e ajude-me a melhora-lo.
+[Envie-me uma mensagem para:( franklinmatos@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
