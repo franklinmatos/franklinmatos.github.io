@@ -2,38 +2,37 @@
 
 <img src="https://s.gravatar.com/avatar/5409b0cafc6fa015132e2157f0284669?s=80" />
 
-You can use the [editor on GitHub](https://github.com/franklinmatos/franklinmatos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Local: Salvador - Bahia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sou desenvolvedor web a mais de 6 anos. Gosto muito do que faço
+e não me vejo fazendo outra coisa que não esteja relacionado com a internet e desenvolvimento de sistemas. Ja tentei ser vendedor e professor, o que so fez confirmar que meu negócio é desenvolver sistemas. Nas horas vagas gosto de navegar na internet 
+para me manter atualizado nas novas tecnologias e tendências.
 
-### Markdown
+twitter: [@fmatoscorreia](http://twitter.com/fmatoscorreia "pessoal")  
+github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pessoal")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Conhecimentos
 
-```markdown
-Syntax highlighted code block
+* Java
+* PHP
+* Javascript
+* HTML e CSS (LESS)
+* Sistemas de controle de versão (git, svn)
+* Desenvolvimento Ágil
+* Inglês suficiente para ler e entender.
 
-# Header 1
-## Header 2
-### Header 3
+### Formação
 
-- Bulleted
-- List
+2009 - Bacharel em Ciência da Computação, Faculdade Ruy Barbosa.
+2014 - Especialização em Engenharia de Software, Faculdade Ruy Barbosa.
 
-1. Numbered
-2. List
+### Publicação
 
-**Bold** and _Italic_ and `Code` text
+Revista Engenharia de Software Magazine
+COUTINHO, M., SOUZA, A., SPINOLA, R. O., CORREIA, F. M.
+Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de
+Software Magazine. , p.11 - 19, 2012.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/franklinmatos/franklinmatos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Sentiu falta de algo importante em meu currículo?  
+[Envie-me uma mensagem ](https://github.com/inbox/new/franklinmatos "Envie-me uma mensagem ") e ajude-me a melhora-lo.
