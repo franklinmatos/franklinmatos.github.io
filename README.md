@@ -36,10 +36,9 @@ COUTINHO, M., SOUZA, A., SPINOLA, R. O., CORREIA, F. M.
 Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de
 Software Magazine. , p.11 - 19, 2012.
 
-
-Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem para:( franklinmcorreia@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
-
 ### Estudos Atuais
 
 Atualmente estou estudando Docker e Laravel 5.5 para ampliar meus conhecimentos e atualizar o ambiente de desenvolvimento em Php, em Java estou lendo sobre Spring Boot 
+
+Sentiu falta de algo importante em meu currículo?  
+[Envie-me uma mensagem para:( franklinmcorreia@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
