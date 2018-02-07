@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+##  Franklin M. Correia (currículo)
+
+<img src="https://s.gravatar.com/avatar/5409b0cafc6fa015132e2157f0284669?s=80" />
 
 You can use the [editor on GitHub](https://github.com/franklinmatos/franklinmatos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
