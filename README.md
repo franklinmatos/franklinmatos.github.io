@@ -21,7 +21,7 @@ github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pes
 * Sistemas de controle de versão (git, svn)
 * Desenvolvimento Ágil
 * Frameworks Java (JSF,Struts 1 e 2, Hibernate, JPA)
-* Frameworks PHP (Codeigniter 2.x)
+* Frameworks PHP (Codeigniter 2.x, Laravel 5.5)
 * Inglês suficiente para ler e entender.
 
 ### Formação
