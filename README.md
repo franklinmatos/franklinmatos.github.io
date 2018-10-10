@@ -25,7 +25,7 @@ github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pes
 * Inglês suficiente para ler e entender.
 * NodeJs
 * AngularJs
-*PL/SqL
+* PL/SqL
 
 ### Formação
 
