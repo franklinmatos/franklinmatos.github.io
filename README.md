@@ -10,7 +10,7 @@ para me manter atualizado nas novas tecnologias e tendências.
 
 twitter: [@fmatoscorreia](http://twitter.com/fmatoscorreia "pessoal")  
 github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pessoal")
-E-mail : franklinmatos@gmail.com
+E-mail: [Franklin Matos Correia](mailto:franklinmatos@gmail.com?subject=[GitHub]%20Source%20franklin%20Matos)
 
 ## Conhecimentos
 
