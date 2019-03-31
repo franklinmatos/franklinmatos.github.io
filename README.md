@@ -48,11 +48,7 @@ Sentiu falta de algo importante em meu currículo?
 [Envie-me uma mensagem para:( franklinmcorreia@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
 
 
-## Atualização Currícullum Vitae
-
-### FORMAÇÃO
-* Pós-graduado em Engenharia de Software, Faculdade Ruy Barbosa, conclusão em 2014.
-* Bacharel em Ciência da Computação, Faculdade Ruy Barbosa, conclusão em 2009.
+## Complemento Currícullum Vitae
 
 ### EXPERIÊNCIA PROFISSIONAL
 * 2017- Atualmente – Avansys tecnologia
