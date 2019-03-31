@@ -8,9 +8,9 @@ Sou desenvolvedor web a mais de 9 anos. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet e desenvolvimento de sistemas. Ja tentei ser vendedor e professor, o que so fez confirmar que meu negócio é desenvolver sistemas. Nas horas vagas gosto de navegar na internet 
 para me manter atualizado nas novas tecnologias e tendências.
 
-twitter: [@fmatoscorreia](http://twitter.com/fmatoscorreia "pessoal")  
-github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pessoal")
-E-mail: [Franklin Matos Correia](mailto:franklinmatos@gmail.com?subject=[GitHub]%20Source%20franklin%20Matos)
+*twitter: [@fmatoscorreia](http://twitter.com/fmatoscorreia "pessoal")  
+*github: [https://github.com/franklinmatos](https://github.com/franklinmatos "pessoal")
+*E-mail: [Franklin Matos Correia](mailto:franklinmatos@gmail.com?subject=[GitHub]%20Source%20franklin%20Matos)
 
 ## Conhecimentos
 
