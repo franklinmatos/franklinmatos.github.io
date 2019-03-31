@@ -30,8 +30,8 @@ para me manter atualizado nas novas tecnologias e tendências.
 
 ### Formação
 
-*2009 - Bacharel em Ciência da Computação.(Faculdade Ruy Barbosa)<br>
-*2014 - Especialização em Engenharia de Software.(Faculdade Ruy Barbosa)
+* 2009 - Bacharel em Ciência da Computação.(Faculdade Ruy Barbosa)<br>
+* 2014 - Especialização em Engenharia de Software.(Faculdade Ruy Barbosa)
 
 ### Publicação
 
