@@ -28,18 +28,6 @@ para me manter atualizado nas novas tecnologias e tendências.
 * AngularJs
 * PL/SqL
 
-### Formação
-
-* 2009 - Bacharel em Ciência da Computação.(Faculdade Ruy Barbosa)<br>
-* 2014 - Especialização em Engenharia de Software.(Faculdade Ruy Barbosa)
-
-### Publicação
-
-Revista Engenharia de Software Magazine
-COUTINHO, M., SOUZA, A., SPINOLA, R. O., CORREIA, F. M.
-Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de
-Software Magazine. , p.11 - 19, 2012.
-
 ### Estudos Atuais
 
 Atualmente estou estudando Docker e Laravel 5.5 para ampliar meus conhecimentos e atualizar o ambiente de desenvolvimento em Php, em Java estou lendo sobre Spring Boot 
@@ -49,6 +37,11 @@ Sentiu falta de algo importante em meu currículo?
 
 
 ## Complemento Currícullum Vitae
+
+### Formação
+
+* 2009 - Bacharel em Ciência da Computação.(Faculdade Ruy Barbosa)<br>
+* 2014 - Especialização em Engenharia de Software.(Faculdade Ruy Barbosa)
 
 ### EXPERIÊNCIA PROFISSIONAL
 * 2017- Atualmente – Avansys tecnologia
@@ -96,4 +89,4 @@ Principais atividades: Desenvolver softwares web baseado em casos de uso, Java, 
  #### Publicação
   * Revista Engenharia de Software Magazine
     COUTINHO, M., SOUZA, A., SPINOLA, R. O., CORREIA, F. M.
-    Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de Software Magazine. , p.11 - 19, 2012.
+    Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de Software Magazine. p.11 - 19, 2012.
