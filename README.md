@@ -99,5 +99,4 @@ Principais atividades: Desenvolver softwares web baseado em casos de uso, Java, 
  #### Publicação
   * Revista Engenharia de Software Magazine
     COUTINHO, M., SOUZA, A., SPINOLA, R. O., CORREIA, F. M.
-    Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de
-  Software Magazine. , p.11 - 19, 2012.
+    Uma visão prática e ferramentas de apoio ao uso do Scrum. Engenharia de Software Magazine. , p.11 - 19, 2012.
