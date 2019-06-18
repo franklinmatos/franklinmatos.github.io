@@ -30,7 +30,7 @@ para me manter atualizado nas novas tecnologias e tendências.
 
 ### Estudos Atuais
 
-Atualmente estou estudando Docker e Laravel 5.5 para ampliar meus conhecimentos e atualizar o ambiente de desenvolvimento em Php, em Java estou lendo sobre Spring Boot 
+Atualmente estou estudando Ionic (versão 04) para ampliar meus conhecimentos e iniciar a construção de apis a serem consumidas pela webview que será usada em celulares Androido e IOS.
 
 Sentiu falta de algo importante em meu currículo?  
 [Envie-me uma mensagem para:( franklinmcorreia@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
@@ -44,7 +44,13 @@ Sentiu falta de algo importante em meu currículo?
 * 2014 - Especialização em Engenharia de Software.(Faculdade Ruy Barbosa)
 
 ### EXPERIÊNCIA PROFISSIONAL
-* 2017- Atualmente – Avansys tecnologia
+
+* 2018 - Atuamente – Montreal Informática
+  Cargo: Analista de Sistemas Sênior
+  Principais atividades: Responsável pelo desenvolvimento / manutenção de api / frontend  do Governo de São Paulo SpTrans: 
+  ** NodeJs, AngularJs, Oracle PlSql, Docker, GulpJs.
+
+* 2017- 2018 – Avansys tecnologia
   Cargo: Analista de Sistemas
   Principais atividades: Responsável pelo desenvolvimento de aplicações web, rotinas backoffice, atuando em manutenções evolutivas e corretivas, usando as tecnologia: 
   ** Java, Struts, Hibernate, SVN, Jboss, Jquery.
