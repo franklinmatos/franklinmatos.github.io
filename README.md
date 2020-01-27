@@ -60,7 +60,7 @@ Sentiu falta de algo importante em meu currículo?
 
 * 2015-2017 – Autônomo
   Cargo: Analista Desenvolvedor
-  Atuei como gerente de projetos, negociando contrato e valores, gerenciando equipe, fazendo análise de requisitos, modelando banco de dados e delegando atividades. Em alguns projetos desenvolvi todo o processo, desde levantamento de requisitos até o
+  Atuei como gerente de projetos, negociando contratos e valores, gerenciando equipe, fazendo análise de requisitos, modelando banco de dados e delegando atividades. Em alguns projetos desenvolvi todo o processo, desde levantamento de requisitos até o
 treinamento do usuário / cliente. Construir softwares usando Php e Java como linguagens.
 
 * 2013-2015 – IFBAIANO
