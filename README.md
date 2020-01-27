@@ -15,7 +15,7 @@ para me manter atualizado nas novas tecnologias e tendências.
 ## Conhecimentos
 
 * Java (09 anos)
-* PHP (3 anos)
+* PHP  (03 anos)
 * JQuery
 * Javascript
 * HTML e CSS (LESS)
@@ -23,14 +23,17 @@ para me manter atualizado nas novas tecnologias e tendências.
 * Desenvolvimento Ágil
 * Frameworks Java (JSF,Struts 1 e 2, Hibernate, JPA)
 * Frameworks PHP (Codeigniter 2.x, Laravel 5.5)
-* Inglês suficiente para ler e entender.
+* Docker
 * NodeJs
 * AngularJs
 * PL/SqL
+* Ionic 4 Curso com duração de 16 Horas
+* TypeScript (treinamento 11 horas em curso)
+* Inglês suficiente para ler e entender.
 
 ### Estudos Atuais
 
-Atualmente estou estudando Ionic (versão 04) para ampliar meus conhecimentos e iniciar a construção de apis a serem consumidas pela webview que será usada em celulares Androido e IOS.
+Atualmente estou estudando Typescript (Curso de 11 horas) para ampliar meus conhecimentos nesta linguagem e poder abrir o horizontes para as novas tecnologias de back e front-end que estão chegando baseadas nele (Typescript).
 
 Sentiu falta de algo importante em meu currículo?  
 [Envie-me uma mensagem para:( franklinmcorreia@gmail.com "Envie-me uma mensagem ") e ajude-me a melhora-lo.
@@ -86,10 +89,10 @@ Principais atividades: Desenvolver softwares web baseado em casos de uso, Java, 
 #### Ferramentas
   * Repositório de arquivos: Git, Svn, Cvs
   * Banco de Dados: SqlServer, Oracle, Mysql, Postgree
-  * FrontEnd: Jquery, Javascript
+  * FrontEnd: Jquery, Javascript, TypeScript
   * Servidores: Jboss, Apache, Tomcat
   * Controle de versão: Composer, Maven
-  * Outras: Docker, Ireport, mpdf
+  * Outras: Docker, Ireport, mpdf, Ionic (4.0)
 
 ### INFORMAÇÕES ADICIONAIS
  #### Publicação
